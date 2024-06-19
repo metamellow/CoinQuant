@@ -39,6 +39,6 @@ add_action('after_setup_theme', 'setup');
 add_action('wp_enqueue_scripts', 'scripts_header');
 //add_action('wp_footer', 'scripts_footer');
 
-/* Shortcodes */
-require_once('shortcodes/practice-areas.php');
-require_once('shortcodes/team.php');
+// /* Shortcodes */
+// require_once('shortcodes/practice-areas.php');
+// require_once('shortcodes/team.php');
